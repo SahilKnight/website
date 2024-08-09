@@ -149,7 +149,7 @@ aside button.close {
 
 header .logo {
   display: inline-block;
-  background-image: url(image/panda.png);
+  background-image: url(panda.png);
   background-size: 8rem 8rem;
   width: 8rem;
   height: 8rem;
@@ -406,7 +406,7 @@ section {
   background-color: #e8f4fc;
   height: 100vh;
   background-size: 200px 200px;
-  background-image: url("image/giphy.gif");
+  background-image: url("giphy.gif");
 }
 
 .homeContent {
@@ -529,7 +529,7 @@ section .singleButton a:hover {
 }
 
 .logoBig {
-  background-image: url(image/pandamain.png);
+  background-image: url(pandamain.png);
   background-size: 25vw 25vw;
   width: 25vw;
   height: 25vw;
@@ -575,7 +575,7 @@ section .singleButton a:hover {
   align-items: center;
   justify-content: center;
   background-color: #e8f4fc;
-  background-image: url("image/dancing-dance.gif");
+  background-image: url("dancing-dance.gif");
   background-size: cover;
   animation: bgScroll 30s linear infinite;
 }
@@ -593,7 +593,7 @@ section .singleButton a:hover {
 }
 
 .roadmap {
-  background-image: url(image/smoke.jpg);
+  background-image: url(smoke.jpg);
   height: 100vh;
 }
 
@@ -923,7 +923,7 @@ footer {
 
   #copytoclipboardca {
     display: initial;
-    background-image: url(images/copytoclipboardca.png);
+    background-image: url(copytoclipboardca.png);
     background-size: 8rem 8rem;
     width: 8rem;
     height: 8rem;
