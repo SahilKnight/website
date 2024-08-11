@@ -14,9 +14,9 @@ function alertFunc() {
 }
 
 function playNo() {
-  var audio = new Audio("chala_ja.mp3");
+ 
   var music = new Audio("The Color Violet.mp3");
-  audio.play();
+  
   music.play();
 }
 
